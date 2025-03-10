@@ -1,2 +1,2 @@
-# Sumsanug-risc-v-program
-Sumsanug risv-v program tasks
+# Samsung-risc-v-program
+Samsung risv-v program tasks
